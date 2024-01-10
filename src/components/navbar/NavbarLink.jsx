@@ -8,7 +8,7 @@ function NavbarLink() {
     <header className={Styles.header}>
     <Nav classname={Styles.navbar}>
     <div   >
-      <Link Link to={'/'}>
+      <Link Link to={'/react-movies'}>
         <img src={logoico} width="80" height="80" alt=""/>
       </Link>
     </div>

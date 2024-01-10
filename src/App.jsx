@@ -14,7 +14,7 @@ function App() {
       </header>
       <main>
       <Routes>
-          <Route path='/' element={<LandingPage/>}/>
+          <Route path='/react-movies' element={<LandingPage/>}/>
           <Route path='/detail/:movieId' element={<ComponentesPelicula/>}/>
         </Routes>
       </main>
