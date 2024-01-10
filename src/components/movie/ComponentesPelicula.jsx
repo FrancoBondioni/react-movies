@@ -51,7 +51,7 @@ export function ComponentesPelicula() {
                     </p>
                 </div>
             </div>
-            <Link to={'/'}>
+            <Link to={'/react-movies'}>
                 <p className={styles.volverLink}><img src={returnimg} className={styles.returnlogo} alt="" /></p>
             </Link>         
         </>
