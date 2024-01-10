@@ -9,7 +9,7 @@ export function SearchMovie() {
   const [searchKey, setSearchKey] = useState('');
   const handleSubmit = (e) => {
       e.preventDefault();
-      history(`/?search=${searchKey}`);
+      history(`react-movies/?search=${searchKey}`);
       setSearchKey(''); 
   }
 
