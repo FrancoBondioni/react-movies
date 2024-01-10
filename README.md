@@ -1,7 +1,10 @@
+https://francobondioni.github.io/react-movies/
+*url de la pagina desplegada
+
 #TRABAJO PRACTICO INTEGRADOR FASE 2- JAVA DEVELOPER EDUCACION IT EN CONJUNTO CON LA UNIVERSIDAD DE VICENTE LOPEZ
 
-#url de la pagina desplegada
-#https://francobondioni.github.io/react-movies/
+
+
 
 # Consigna integrador Fase2
 Para realizar el Proyecto Integrador te propongo realizar los
