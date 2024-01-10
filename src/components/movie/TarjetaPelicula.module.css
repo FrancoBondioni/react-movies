@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300;400&display=swap');
+
+.TarjetaPelicula {
+    list-style: none;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 400;
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    border-radius: 10px;
+}
+
+.TarjetaPelicula:hover {
+    background-color: white;
+    cursor: pointer;
+}
+.movieImg {
+    width: 230px;
+    height: auto;
+}
+.title{
+    background-color: rgb(225, 215, 215);
+}

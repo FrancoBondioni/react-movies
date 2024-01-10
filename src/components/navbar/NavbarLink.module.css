@@ -1,0 +1,35 @@
+
+.header{
+    background-color: rgb(53, 48, 48);
+}
+.retunimg{
+    width: 50%;
+    height: 50%;
+    background-color: blue;
+}
+
+
+.busquedaContenedor {
+    display: flex;
+    background-color: blue;
+    justify-content: center;
+}
+.container{
+    background-color: black;
+    align-items: center;
+}
+header{
+    display: block;
+}
+.nav{
+    text-align: right;
+    display:inline-block;
+    width:60%;
+}
+.ul{
+    display: inline;
+    list-style-type: none;
+    margin: 0.5em auto;
+    text-align: center;
+    float: right;
+}

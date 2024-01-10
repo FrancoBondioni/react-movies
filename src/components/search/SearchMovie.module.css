@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300;400&display=swap');
+.busquedaContenedor {
+    display: flex;
+    justify-content: center;
+}
+
+.searchBox {
+    position: relative;
+
+}
+
+.busquedaInput {
+    font-family: 'Oswald', sans-serif;
+    font-weight: 300;
+    font-size: 1.2rem;
+    height: 50px;
+    border-radius: 10px;
+    padding: 10px 30px 10px 10px;
+    border: 1px solid #ffffff;
+    background-color: #961e1e;
+    color: rgb(250, 235, 215);
+
+}
+.logoico{
+    width: 7vh;
+    height: 7vh;
+    background-color: none;
+}
+.botonBusqueda{
+    background-color: transparent;
+    top: 0;
+    right: 0;   
+    border: 2px solid rgb(199, 38, 38);
+    height: 100%;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-left: 1rem;
+    color: rgb(250, 235, 215);
+}
